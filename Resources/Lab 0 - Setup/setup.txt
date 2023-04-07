@@ -94,7 +94,7 @@ $AZ_RESOURCE_GROUP = "rg_trainee_10"
 $AZ_CONTAINER_REGISTRY = "acrakstrainee10"
 $AZ_KUBERNETES_CLUSTER = "akstrainee10"
 $NEW_DNS_LABEL = "akstrainee10"
-$AZ_KEYVAULT_NAME = "kvakstrainee10"
+$AZ_KEYVAULT_NAME = "kvakstrainee10v2"
 
 ######## trainee11 ###########
 $AZ_TENANT_ID = "2bf80a97-feeb-4ffa-be69-14c56f49312d"
